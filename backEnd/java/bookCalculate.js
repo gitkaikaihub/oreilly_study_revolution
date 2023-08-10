@@ -1,4 +1,4 @@
-const data = require('./theArtOfLeadership/bookData');
+const data = require('./headFirstJava3rd/bookData');
 const Book = require('../../function/book');
 const printStars = require("../../function/print");
 

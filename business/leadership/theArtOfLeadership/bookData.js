@@ -5,18 +5,34 @@ const bookData = {
 			totalWords: 567,
 			wordsPerPeriod: [
 				{
-					startTime: '2023年8月8日 21点17分',
+					startTime: '2023年8月8日 22点23分',
 					readWordsAtStart: 0,
-					endTime: '2023年8月8日 21点27分',
-					readWordsAtEnd: 2350
+					endTime: '2023年8月8日 22点26分',
+					readWordsAtEnd: 567
 				},
 			]
 		},
 		chapter02: {
 			totalWords: 1042,
+			wordsPerPeriod: [
+				{
+					startTime: '2023年8月8日 22点26分',
+					readWordsAtStart: 0,
+					endTime: '2023年8月8日 22点31分',
+					readWordsAtEnd: 1042
+				}
+			]
 		},
 		chapter03: {
 			totalWords: 1277,
+			wordsPerPeriod: [
+				{
+					startTime: '2023年8月8日 22点31分',
+					readWordsAtStart: 0,
+					endTime: '2023年8月8日 22点37分',
+					readWordsAtEnd: 1277
+				}
+			]
 		},
 		chapter04: {
 			totalWords: 1522,

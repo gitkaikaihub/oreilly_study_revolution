@@ -1,11 +1,11 @@
-const data = require('./cssTheDefinitiveGuide5th/bookData');
+const data = require('./theManagerPath/bookData');
 const Book = require('../../function/book');
 const printStars = require("../../function/print");
 
 const book = new Book(data);
 const template = {
-	lastChapter: 'chapter06',
-	currentChapter: 'chapter07'
+	lastChapter: 'chapter01',
+	currentChapter: 'chapter01'
 }
 
 const standardSpeed = book.getStandardSpeedPerBook(data);
